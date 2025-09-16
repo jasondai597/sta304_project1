@@ -16,6 +16,10 @@ library(tidyverse)
 
 ```
 
+# 0 testing changes
+this code is testing the push function in version control
+
+
 # 1 Introduction
 
 In this section you will briefly describe your report. Explain the importance of the survey you are going to present, as well as the subsequent analysis and prepare the reader for what they will read in the subsequent sections. Explain the goal/topic of the survey/study and the variables you selected of interest here. It might be helpful to explain what STEMBuddies is and provide some information/literature review about education resource developement. You will likely need to include in-line citations/references (you can APA style/formatting if desired \[1\]).
